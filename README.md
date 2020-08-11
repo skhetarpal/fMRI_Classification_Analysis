@@ -1,5 +1,6 @@
 # fMRI_Classification_Analysis
-Machine learning classification analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex
+Machine learning classification analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
+The classifications were done using Naive Bayes Classifiers.
 
 
 PROJECT ABSTRACT:

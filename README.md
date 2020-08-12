@@ -1,6 +1,5 @@
 # fMRI_Classification_Analysis
 Machine learning classification analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
-The classifications were done using Naive Bayes Classifiers.
 
 
 PROJECT ABSTRACT:
@@ -9,13 +8,16 @@ during infancy. Using fMRI data from a longitudinal study of baby monkeys, I ana
 development of the visual cortex by applying machine learning classifiers to the data and
 testing for classification accuracy.  This type of analysis is called Multivoxel Pattern Analysis (MVPA).
 My tests revealed that the visual cortex is very responsive by the age of 3 months, but that it also continues 
-to develop a great deal between ages of 3 and 9 months.
+to develop a great deal between ages of 3 and 9 months.  I also compared and constrasted the classification 
+performance of various machine learning tools and discovered that Support Vector Machines performed best.
 
 
 LIST OF TOP LEVEL FILES:
 
+MM_Final_Project.pdf: Longitudinal study of visual cortex using machine learning.
+
+ProcessBook.ipynb:  Comparison of the classification performance of various machine learning tools.
+
 S.m: High level code for performing classification training and testing.
 
-MM_Final_Project.pdf: Project document.  This contains a full description of the project.
-
-figures.pptx: Powerpoint slides containing all figures.
+figures.pptx: Powerpoint slides containing figures.

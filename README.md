@@ -16,7 +16,7 @@ LIST OF TOP LEVEL FILES:
 
 MM_Final_Project.pdf: Longitudinal study of visual cortex using machine learning.
 
-ProcessBook.ipynb:  Comparison of the classification performance of various machine learning tools.
+ProcessBookFinal.ipynb:  Comparison of the classification performance of various machine learning tools.
 
 S.m: High level code for performing classification training and testing.
 

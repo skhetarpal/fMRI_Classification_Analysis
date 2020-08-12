@@ -1,5 +1,6 @@
 # fMRI_Classification_Analysis
-Machine learning classification analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex
+Machine learning classification analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
+The classifications were done using Naive Bayes Classifiers.
 
 
 PROJECT ABSTRACT:
@@ -11,7 +12,7 @@ My tests revealed that the visual cortex is very responsive by the age of 3 mont
 to develop a great deal between ages of 3 and 9 months.
 
 
-LIST OF FILES:
+LIST OF TOP LEVEL FILES:
 
 S.m: High level code for performing classification training and testing.
 

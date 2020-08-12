@@ -18,6 +18,6 @@ MM_Final_Project.pdf: Longitudinal study of visual cortex using machine learning
 
 ProcessBookFinal.ipynb:  Comparison of the classification performance of various machine learning tools.
 
-S.m: High level code for performing classification training and testing.
+S.m: Top level code for performing classification training and testing.
 
 figures.pptx: Powerpoint slides containing figures.

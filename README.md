@@ -8,7 +8,7 @@ during infancy. Using fMRI data from a longitudinal study of baby monkeys, I ana
 development of the visual cortex by applying machine learning classifiers to the data and
 testing for classification accuracy.  This type of analysis is called Multivoxel Pattern Analysis (MVPA).
 My tests revealed that the visual cortex is very responsive by the age of 3 months, but that it also continues 
-to develop a great deal between ages of 3 and 9 months.  I also compared and constrasted the classification 
+to develop a great deal between ages of 3 and 9 months.  I also compared and contrasted the classification 
 performance of various machine learning tools and discovered that Support Vector Machines performed best.
 
 

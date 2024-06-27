@@ -1,5 +1,5 @@
 # fMRI_Classification_Analysis
-Machine learning classification analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
+A machine learning analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
 
 
 PROJECT ABSTRACT:
@@ -7,11 +7,7 @@ Scientists do not yet fully understand the development timeline of the visual co
 
 
 LIST OF TOP LEVEL FILES:
-
 MM_Final_Project.pdf: Longitudinal study of visual cortex using machine learning.
-
-ProcessBookFinal.ipynb:  Comparison of the classification performance of various machine learning tools.
-
+ProcessBookFinal.ipynb:  Exploration of the data using various machine learning tools and techniques.
 S.m: Top level code for performing classification training and testing.
-
 figures.pptx: Powerpoint slides containing figures.

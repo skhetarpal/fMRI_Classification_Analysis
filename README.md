@@ -3,13 +3,7 @@ Machine learning classification analysis of fMRI data to detect visual domains i
 
 
 PROJECT ABSTRACT:
-Scientists do not yet have a strong understanding of how and when the visual cortex develops
-during infancy. Using fMRI data from a longitudinal study of baby monkeys, I analyze the early
-development of the visual cortex by applying machine learning classifiers to the data and
-testing for classification accuracy.  This type of analysis is called Multivoxel Pattern Analysis (MVPA).
-My tests revealed that the visual cortex is very responsive by the age of 3 months, but that it also continues 
-to develop a great deal between ages of 3 and 9 months.  I also compared and contrasted the classification 
-performance of various machine learning tools and discovered that Support Vector Machines performed best.
+Scientists do not yet fully understand the development timeline of the visual cortex during infancy. In this analysis, I use machine learning techniques to explore the early development of the visual cortex in baby macaque monkeys. Specifically, I perform a multivoxel pattern analysis (MVPA) on fMRI data collected during a longitudinal study involving visual experiments. This analysis reveals that the visual cortex is highly responsive by the age of 3 months and undergoes rapid development between the ages of 3 and 9 months.
 
 
 LIST OF TOP LEVEL FILES:

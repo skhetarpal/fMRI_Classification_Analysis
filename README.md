@@ -1,4 +1,4 @@
-# fMRI_Classification_Analysis
+# Visual Cortex ML
 A machine learning analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
 
 

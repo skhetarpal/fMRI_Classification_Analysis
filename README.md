@@ -1,5 +1,5 @@
 # Visual Cortex ML
-A machine learning analysis of fMRI data to detect visual domains in the Inferior Temporal Cortex.
+I apply machine learning based multivoxel pattern analysis to fMRI data in order to understand the development of visual domains in the macaque Inferior Temporal Cortex.
 
 
 ## PROJECT ABSTRACT

@@ -9,5 +9,5 @@ Scientists do not yet fully understand the development timeline of the visual co
 ## LIST OF TOP LEVEL FILES:
 * ML_Analysis_of_Visual_Cortex.pdf: The project write up.
 * ProcessBookFinal.ipynb:  The exploration of the data using various machine learning tools and techniques.
-* S.m: The top level code for performing classification training and testing.
+* scripts/S.m: The top level code for performing ML analysis and testing.
 * figures.pptx: Powerpoint slides containing figures.
